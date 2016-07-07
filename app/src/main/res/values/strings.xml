@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="score">Score:</string>
+    <string name="high_score">High Score:</string>
+    <string name="new_game">Start a New Game</string>
+    <string name="game_over">Game Over</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+    <string name="won_game_option">Would You Like to Continue?</string>
+    <string name="won_game">You Win!</string>
+    <string name="game_button">New Game</string>
+    <string name="instruction_title">How to Play</string>
+    <string name="instruction">Swipe up, down, left, and right to move the tiles.
+        Like tiles bumping together combines their numbers into one tile. A 2 or 4 is randomly placed on the board each turn. Win by creating a 2048 tile!</string>
+</resources>
